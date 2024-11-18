@@ -84,6 +84,13 @@
     "visible": true
   },
   {
+    "name": "Geometry Dash World"
+    "path": "/games/html/geometry-world"
+    "type": "html"
+    "img": "/games/images/geometry-world.webp"
+    "visible": false
+  },
+  {
     "name": "Gladihoppers",
     "path": "/games/html/gladihoppers/index.html",
     "type": "html",
